@@ -9,6 +9,7 @@
              
 - 📫 You can reach me at figujosh@kean.edu                        
 
+<div style="width: 100%; height: 2px; background-color: black;"></div>
 
 
 
