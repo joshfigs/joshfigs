@@ -3,7 +3,7 @@
 
 - 👋 Hello, my name is Joshua Figueroa
 
-- 🏫 I am a student Kean University
+- 🏫 I am a student at Kean University
   
 - 👀 I’m interested in programming, traveling, video games and sports
              
