@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src= "(https://github.com/joshfigs/joshfigs/assets/157768397/d7bdad85-e4f2-4b63-8ae4-d54f73e80c24)\">
+<img align="right" alt="Coding" width="400" src= "https://github.com/joshfigs/joshfigs/assets/157768397/d7bdad85-e4f2-4b63-8ae4-d54f73e80c24">
 <br><br>
 - 👋 Hello, my name is Joshua Figueroa and I am a student Kean University
 - 👀 I’m interested in programming, traveling, video games and sports                
