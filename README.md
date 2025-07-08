@@ -7,7 +7,7 @@
   
 - 👀 I’m interested in programming, traveling, video games and sports
              
-- 📫 You can reach me at figujosh@kean.edu                        
+- 📫 You can reach me at joshuafigueroa.work@gmail.com                        
 
 <h3>Connect with me:</h3>
 <p>
